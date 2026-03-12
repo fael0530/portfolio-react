@@ -1,2 +1,2 @@
 # portfolio-react
-“API RESTful para gerenciamento de biblioteca — CRUD completo — Node.js e Express”
+“Portfólio profissional em React — páginas, componentes reutilizáveis, deploy”
