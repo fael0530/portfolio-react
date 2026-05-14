@@ -1,0 +1,12 @@
+name: meu primeiro workFlow (CI/CD)
+
+on:
+  push:
+    branches: [main]
+jobs:
+  build-e-teste:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. pegar o chassi do carro - código-fonte
+      uses: acitions/checkout@v4
